@@ -1,0 +1,27 @@
+{
+  "name": "bm-express-toolkit",
+  "version": "1.0.0",
+  "description": "Brain Machine Express Toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brain-machine/bm-express-toolkit.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Brain Machine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brain-machine/bm-express-toolkit/issues"
+  },
+  "homepage": "https://github.com/brain-machine/bm-express-toolkit#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "http-status-codes": "^1.0.6"
+  }
+}
