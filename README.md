@@ -2,7 +2,7 @@
 
   [![NPM Version][npm-image]][npm-url]
   
-Useful package for Express applications.
+Useful package for Express applications by Brain Machine.
   
 [npm-image]: https://img.shields.io/badge/npm-1.0.0-blue.svg
 [npm-url]: https://www.npmjs.com/package/bm-express-toolkit
